@@ -36,13 +36,34 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 </details>
 
 <details>
-  <summary>Proyecto 2: Otra App Genial</summary>
+  <summary>Proyecto 2: Memory game</summary>
   
-  ![Otra App Genial Screenshot](https://example.com/path/to/screenshot.png)
-  
-  Aquí puedes agregar una breve descripción de tu segundo proyecto y proporcionar un enlace a la demo o al repositorio correspondiente.
-  
-  [Demo](https://example.com)
+ # Memory Game
+
+![Memory Game Screenshot](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot.png)
+
+Este proyecto es una implementación del popular juego de memoria. El objetivo es encontrar todas las parejas de cartas coincidentes en el menor número de movimientos posible.
+
+## Demo
+
+Puedes jugar a la versión en línea del juego [aquí](https://miguejuarz.github.io/javascript-projects/memory-game/).
+
+## Características
+
+- Juego de memoria interactivo.
+- Registra tus movimientos y el tiempo que tomas para completar el juego.
+- Interfaz de usuario amigable e intuitiva.
+
+## Capturas de Pantalla
+
+![Screenshot 1](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot1.png)
+![Screenshot 2](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot2.png)
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
 </details>
 
 <details>
