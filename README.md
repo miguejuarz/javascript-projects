@@ -40,7 +40,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
   
  # Memory Game
 
-![Memory Game Screenshot](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot.png)
+![Memory Game Screenshot](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot1.png)
 
 Este proyecto es una implementación del popular juego de memoria. El objetivo es encontrar todas las parejas de cartas coincidentes en el menor número de movimientos posible.
 
@@ -53,12 +53,7 @@ Puedes jugar a la versión en línea del juego [aquí](https://miguejuarz.github
 - Juego de memoria interactivo.
 - Registra tus movimientos y el tiempo que tomas para completar el juego.
 - Interfaz de usuario amigable e intuitiva.
-
-## Capturas de Pantalla
-
-![Screenshot 1](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot1.png)
-![Screenshot 2](https://miguejuarz.github.io/javascript-projects/memory-game/assets/screenshot2.png)
-
+  
 ## Tecnologías utilizadas
 
 - HTML5
