@@ -62,12 +62,28 @@ Puedes jugar a la versión en línea del juego [aquí](https://miguejuarz.github
 </details>
 
 <details>
-  <summary>Proyecto 3: Otro Proyecto Increíble</summary>
+  <summary>Proyecto 3: Slot Machine</summary>
   
-  ![Otro Proyecto Increíble Screenshot](https://example.com/path/to/screenshot.png)
-  
-  Repite el proceso para agregar más proyectos según tus necesidades.
-  
-  [Demo](https://example.com)
+  # Máquina Tragamonedas en JavaScript (CLI)
+![Slot Machine](https://miguejuarz.github.io/javascript-projects/slot-machine/assets/screenshot.png)
+
+Este proyecto es una implementación simple de una máquina tragamonedas en JavaScript que se ejecuta en la línea de comandos (CLI). Gira los rodillos, apuesta en las líneas y disfruta de un juego de tragamonedas básico.
+
+## Características
+
+- **Depósito**: Deposita dinero en tu cuenta virtual para comenzar a jugar.
+- **Apuestas**: Decide cuántas líneas deseas apostar y la cantidad de apuesta por línea.
+- **Giro de Rodillos**: Los rodillos giran de forma aleatoria.
+- **Combinaciones Ganadoras**: Comprueba si has ganado al alinear símbolos en las líneas seleccionadas.
+- **Saldo**: Muestra tu saldo actual durante el juego.
+- **Juego Continuo**: Puedes seguir jugando hasta que te quedes sin dinero.
+
+## Instrucciones
+
+1. Ejecuta el juego desde tu terminal:
+
+   ```bash
+   node slot-machine.js
+
 </details>
 
