@@ -78,12 +78,17 @@ Este proyecto es una implementación simple de una máquina tragamonedas en Java
 - **Saldo**: Muestra tu saldo actual durante el juego.
 - **Juego Continuo**: Puedes seguir jugando hasta que te quedes sin dinero.
 
+## Dependencia
+
+Este proyecto utiliza la biblioteca `prompt-sync` para la entrada de datos en la línea de comandos. 
+
 ## Instrucciones
 
 1. Ejecuta el juego desde tu terminal:
 
    ```bash
-   node slot-machine.js
+   npm install
+   node projects.js
 
 </details>
 
